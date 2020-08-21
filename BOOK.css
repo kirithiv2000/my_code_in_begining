@@ -1,0 +1,162 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.bluecolor {
+    background-color:#3B5998 ;
+    color: aliceblue;
+    margin: 0px;
+    padding: 15px;
+    
+}
+
+.loginbutton { width: 100}
+
+.backgroundimage {
+    height: 100px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    background-image: linear-gradient(to top ,lightgrey,white 90%);
+
+}
+
+
+
+
+.idC {float: right;
+    margin: 0px;
+    padding: 0px;
+    color: black;
+    font-size: 25px; 
+    margin: 0px 0px 0px 60%;
+    line-height: 59px;
+    position: relative;
+    width: 40%;
+    font-size: 20px;
+}
+
+#size {
+    background-color:#f7f7f7;
+    margin-right: 20px;
+    padding: 3px;
+}
+
+#signup {
+    background-color: green;
+    color: aliceblue;
+    border-color: green;
+    font-size: 19px;
+}
+
+#m {
+    color: aliceblue;
+    background-color: rgba(0, 44, 240, 0.83);
+    border: 0px navy;
+    height: 20px;
+    padding: 1px;
+    width: 9%
+}
+
+.down {
+    margin: 600px 0px 0px 0%;
+    background-color: aliceblue;
+    padding: 30px;
+    position: absolue;
+}
+
+.india {
+}
+
+.india3 {
+    color: green
+}
+
+.india2 {
+    color: gray;
+}
+
+.india1 {
+    color: orange;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+     
+}
+
+#size1 {
+    background-color:#f7f7f7;
+    margin-right: 20px;
+    padding: 3px;
+}
+
+.fleft {
+    float: left;
+    color: #3B5998;
+    margin: 1% 80px;
+    font-size: 20px;
+    position: absolute;
+}
+
+.blue{
+    float: right;
+    margin: 1% 5% 1% 0%; 
+    width: 500px;
+    font-size: 18px;
+    margin-top: 30px;
+}
+
+.h1 {
+    margin: 15px 0px 10px 90px;
+    font-size: 40px;
+    word-spacing: small
+}
+
+.sort {
+    color: gray;
+    font-size: 18px;
+    margin: 0px
+    
+}
+
+
+
+#fem {
+    margin-left: 10px
+}
+
+.input {
+    padding: 8px 10px;
+    border-color:  #bdc7d8;
+    font-size: 18px;
+    border-radius: 5px;
+    background-color: transparent;
+    
+   
+}
+
+.width {
+    width: 390px;
+    padding: 8px 10px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+#input {
+    padding: 8px 10px;
+    border-radius: 5px;
+    font-size: 18px;
+    width: 190px;
+}
+
+#input1 {
+    padding: 8px 10px;
+    border-radius: 5px;
+    margin-left: 5px;
+    font-size: 18px;
+    width: 190px;
+}
